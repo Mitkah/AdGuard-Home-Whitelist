@@ -253,34 +253,6 @@
 # Spiegel.de
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||spiegel.de^$important
-# Manager Magazin App
-@@||manager-magazin-de.manager-magazin.de^$important
-@@||cdn1.manager-magazin.de^$important
-@@||sni.cdn.manager-magazin.de.c.footprint.net^$important
-@@||a.manager-magazin.de^$important
-# Disney+ Streaming
-@@||cdn.registerdisney.go.com^$important
-@@||dssott.com^$important
-@@||disneyplus.com^$important
-@@||disney-plus.net^$important
-@@||cws.conviva.com^$important
-@@||disneyplus.bn5x.net^$important
-@@||disney-portal.my.onetrust.com^$important
-@@||bamgrid.com^$important
-@@||disneyplus.com.ssl.sc.omtrdc.net^$important
-@@||cws-sjc2.conviva.com^$important
-@@||cws-iad1.conviva.com^$important
-@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
-@@||disney.demdex.net^$important
-# Formula 1 Mobile iOS
-@@||codemasters.helpshift.com^$important
-@@||f1mrs.codemasters.com^$important
-@@||cdp.cloud.unity3d.com^$important
-@@||di-wuhqj6gc.leasewebultracdn.com^$important
-@@||config.uca.cloud.unity3d.com^$important
-@@||ecommerce.iap.unity3d.com^$important
-# DynDns Provider
-@@||dyndns.variomedia.de^$important
 # ARD German Television
 @@||image.ard.de^$important
 @@||image-ard-de-cddc.at-o.net^$important
@@ -303,7 +275,27 @@
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
 # bitcoin
-@@||bitcoin.de
-@@||phemex.de
+@@||bitcoin.de^$important
+@@||phemex.de^$important
 google fonts
 @@||fonts.gstatic.com^$important
+# Twitch
+@@||ext-twitch.tv^$important
+@@||jtvnw.net^$important
+@@||ttvnw.net^$important
+@@||twitch.tv^$important
+@@||twitchcdn.net^$important
+@@||twitchsvc.net^$important
+@@||www.ext-twitch.tv^$important
+@@||www.jtvnw.net^$important
+@@||www.ttvnw.net^$important
+@@||www.twitch.tv^$important
+@@||www.twitchcdn.net^$important
+@@||www.twitchsvc.net^$important
+@@||twitch.map.fastly.net^$important
+@@||api.twitch.tv^$important
+@@||static-cdn.jtvnw.net^$important
+@@||supervisor.ext-twitch.tv^$important
+# Matrix
+@@||matrix.mitkah.de^$important
+@@||mitkah.de^$important
