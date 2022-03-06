@@ -1,14 +1,4 @@
 # My Adguard Home whitelist
-# Instagram
-@@||cdninstagram.com^$important
-@@||instagram.com^$important
-@@||instagram.c10r.facebook.com^$important
-# F1 TV
-@@||f1-prod-production.apigee.net^$important
-@@||f1-prod-production.dn.apigee.net^$important
-@@||formula1.com^$important
-# Joyn TV Stream
-@@||yospace.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
