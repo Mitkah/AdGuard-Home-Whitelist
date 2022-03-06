@@ -289,3 +289,5 @@ google fonts
 # Matrix
 @@||matrix.mitkah.de^$important
 @@||mitkah.de^$important
+# docker
+@@||docker.com^$important
