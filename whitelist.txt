@@ -314,3 +314,8 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+# bitcoin
+@@||bitcoin.de
+@@||phemex.de
+google fonts
+@@||fonts.gstatic.com^$important
