@@ -291,3 +291,7 @@ google fonts
 @@||mitkah.de^$important
 # docker
 @@||docker.com^$important
+# torproject
+@@||torproject.org^$important
+# tails
+@@||tails.boum.org^$important
