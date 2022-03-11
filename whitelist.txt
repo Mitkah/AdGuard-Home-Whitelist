@@ -80,20 +80,14 @@
 @@||imgs.xkcd.com^$important
 #Bitly URL Shortener
 @@||j.mp^$important
-# https://linktr.ee/
+# linktr.ee/
 @@||linktr.ee^$important
 # Jsdelivr.net Open Source CDN
 @@||jsdelivr.net^$important
-# Malwarebytes Anti-Malware
-@@||keystone.mwbsys.com^$important
 # Aliexpress.com
 @@||login.aliexpress.com^$important
 # Adswizz sponsor clips before several podcasts
 @@||npr-news.streaming.adswizz.com^$important
-# CBS Television Stream
-@@||cbsi.com^$important
-@@||cbsinteractive.hb.omtrdc.net^$important
-@@||s0.2mdn.net^$important
 # Audioscrobbler.com
 @@||ws.audioscrobbler.com^$important
 # Pinterest
@@ -159,8 +153,6 @@
 @@||ichnaea.netflix.com^$important
 @@||appboot.netflix.com^$important
 @@||secure.netflix.com^$important
-# Samsung TV network issue
-@@||cdn.samsungcloudsolution.com^$important
 # Spotify
 @@||open.spotify.com^$important
 @@||mobile-ap.spotify.com^$important
@@ -192,8 +184,6 @@
 @@||www.spotifycdn.net^$important
 @@||www.spotilocal.com^$important
 @@||audio4-fa.scdn.co^$important
-# Sonos
-@@||msmetrics.ws.sonos.com^$important
 # soundcloud
 @@||sndcdn.com^$important
 @@||soundcloud.com^$important
