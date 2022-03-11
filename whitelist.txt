@@ -25,28 +25,22 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
-# Plex
-@@||app.plex.tv^$important
-@@||cpms.spop10.ams.plex.bz^$important
-@@||cpms35.spop10.ams.plex.bz^$important
-@@||dashboard.plex.tv^$important
-@@||meta-db-worker02.pop.ric.plex.bz^$important
-@@||meta.plex.bz^$important
-@@||meta.plex.tv^$important
-@@||my.plexapp.com^$important
-@@||nine.plugins.plexapp.com^$important
-@@||node.plexapp.com^$important
-@@||o1.email.plex.tv^$important
-@@||o2.sg0.plex.tv^$important
-@@||proxy.plex.bz^$important
-@@||proxy.plex.tv^$important
-@@||proxy02.pop.ord.plex.bz^$important
-@@||pubsub.plex.bz^$important
-@@||pubsub.plex.tv^$important
-@@||staging.plex.tv^$important
-@@||status.plex.tv^$important
-@@||tvdb2.plex.tv^$important
-@@||tvthemes.plexapp.com^$important
+# autodesk
+@@||www.autodesk.com^$important
+@@||access.clic.autodesk.com^$important
+@@||clm.clic.autodesk.com^$important^$important
+@@||accounts.autodesk.com^$important
+@@||api.autodesk.com^$important
+@@||cur.autodesk.com^$important
+@@||registeronce.autodesk.com^$important
+@@||cdn.accounts.autodesk.com^$important
+@@||developer.api.autodesk.com^$important
+@@||ipm-aem.autodesk.com^$important
+@@||ipp.autodesk.com^$important
+@@||gateway.bluesnap.com^$important
+@@||nexus.ensighten.com^$important^
+@@||d1rvg4h59z7jah.cloudfront.net^$important
+@@||download.autodesk.com^$important
 # Github
 @@||github.com^$important
 @@||github.io^$important
