@@ -74,14 +74,14 @@
 @@||cdn.vidible.tv^$important
 @@||delivery.vidible.tv^$important
 @@||videos.vidible.tv^$important
-# ImgIX
-@@||imgix.net^$important
+# hier.gg
+@@||hier.gg^$important
 # XKCD
 @@||imgs.xkcd.com^$important
 #Bitly URL Shortener
 @@||j.mp^$important
-# Jquery
-@@||jquery.com^$important
+# https://linktr.ee/
+@@||linktr.ee^$important
 # Jsdelivr.net Open Source CDN
 @@||jsdelivr.net^$important
 # Malwarebytes Anti-Malware
