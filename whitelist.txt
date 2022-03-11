@@ -65,44 +65,10 @@
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
-# Optimizely
-@@||cdn.optimizely.com^$important
-@@||cdn2.optimizely.com^$important
-@@||cdn3.optimizely.com^$important
-# Akamai Technologies
-@@||akamaihd.net^$important
-@@||akamaitechnologies.com^$important
-@@||akamaized.net^$important
-@@||widget-cdn.rpxnow.com^$important
-@@||akamai.net^$important
-@@||akadns.net^$important
-# Sonarr TV Soft
-@@||apt.sonarr.tv^$important
-@@||download.sonarr.tv^$important
-@@||forums.sonarr.tv^$important
-@@||services.sonarr.tv^$important
-@@||skyhook.sonarr.tv^$important
-# Ipify.org
-@@||api.ipify.org^$important
-# Rlje.net VOD
-@@||api.rlje.net^$important
-# Buffer CDN 
-@@||bufferapp.com^$important
-# Embedly.com
-@@||cdn.embedly.com^$important
-# Dataplicity.com
-@@||dataplicity.com^$important
-# Drift.com
-@@||drift.com^$important
-@@||driftt.com^$important
 # Giphy.com
 @@||giphy.com^$important
 # Gravatar Image
 @@||gravatar.com^$important
-# Ted.com
-@@||hls.ted.com^$important
-@@||app-api.ted.com^$important
-@@||tedcdn.com^$important
 # Vidible Video Platform
 @@||img.vidible.tv^$important
 @@||cdn.vidible.tv^$important
@@ -141,28 +107,9 @@
 @@||edge.api.brightcove.com^$important
 # Cloudinary Upload Platform
 @@||res.cloudinary.com^$important
-# Shopify.com eCommerce Software
-@@||v.shopify.com^$important
-@@||s.shopify.com^$important
 # Wordpress
 @@||wp.com^$important
 @@||wordpress.com^$important
-# Avangate Shop
-@@||secure.avangate.com^$important
-# Surveymonkey
-@@||secure.surveymonkey.com^$important
-# JW Player
-@@||ssl.p.jwpcdn.com^$important
-# Tawk Live Chat
-@@||tawk.to^$important
-# Themoviedb.com
-@@||themoviedb.com^$important
-# Thetvdb.com
-@@||thetvdb.com^$important
-# Tinyurl Shortener
-@@||tinyurl.com^$important
-# Libsyn Podcast Hosting
-@@||traffic.libsyn.com^$important
 # Wikipedia
 @@||wikipedia.org^$important
 # Microsoft
@@ -224,8 +171,34 @@
 @@||ap.spotify.com^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audio4-ak.spotify.com.edgesuite.net^$important
+@@||audio-ak-spotify-com.akamaized.net
+@@||audio-akp-bbr-spotify-com.akamaized.net
+@@||audio4-ak-spotify-com.akamaized.net
+@@||heads-ak-spotify-com.akamaized.net
+@@||pscdn.co^$important
+@@||i.scdn.co$^$important
+@@||scdn.co$important^$important
+@@||spotify-com.akamaized.net^$important
+@@||spotify.com^$important
+@@||spotify.com.edgesuite.net^$important
+@@||spotify.demdex.net^$important
+@@||vspotify.edgekey.net^$important
+@@||spotify.map.fastly.net^$important
+@@||spotifycdn.net^$important
+@@||spotilocal.com^$important
+@@||www.pscdn.co^$important
+@@||www.scdn.co^$important
+@@||www.spotify.com^$important
+@@||www.spotifycdn.net^$important
+@@||www.spotilocal.com^$important
+@@||audio4-fa.scdn.co^$important
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
+# soundcloud
+@@||sndcdn.com^$important
+@@||soundcloud.com^$important
+@@||www.sndcdn.com^$important
+@@||www.soundcloud.com^$important
 # Amazon Prime Video and Amazon CDN
 @@||eu.api.amazonvideo.com^$important
 @@||device-metrics-us.amazon.com^$important
